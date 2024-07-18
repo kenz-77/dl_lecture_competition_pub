@@ -1,5 +1,6 @@
 batch_size: 128
-epochs: 80
+epochs: 50
+patience: 5
 lr: 0.001
 
 device: cuda:0
